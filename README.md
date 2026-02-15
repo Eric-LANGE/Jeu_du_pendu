@@ -4,8 +4,8 @@ Ce dépôt contient le code source d'un jeu du Pendu écrit en C.
 
 ## Prérequis et Configuration
 
-1. **Organisation des fichiers** : Placez tous les fichiers dans un même dossier.
-2. **Configuration du dictionnaire** : Dans le fichier `dico.c`, renseignez le chemin (absolu ou relatif) vers le fichier `dico.txt`.
+1. **Organisation des fichiers** : placez tous les fichiers dans un même dossier.
+2. **Configuration du dictionnaire** : dans le fichier `dico.c`, renseignez le chemin (absolu ou relatif) vers le fichier `dico.txt`.
    ```c
    int piocherMot(char *motPioche)
    {
