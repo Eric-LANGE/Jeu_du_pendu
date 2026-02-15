@@ -1,17 +1,3 @@
-### 1. Plan
-
-* Confirmer la prise en compte de la modification pour la commande de compilation.
-* Générer le fichier `README.md` complet et structuré en intégrant cette bonne pratique.
-
-### 2. Clarify
-
-* *Validation technique* : Remplacer `pendu.o` par `pendu` (sans extension) est la norme sous Linux/Unix pour désigner un binaire exécutable final. L'extension `.o` est techniquement réservée aux fichiers objets intermédiaires générés lors d'une compilation non liée (avec l'option `-c` de GCC). La commande `gcc -o pendu pendu.c dico.c` est donc parfaitement standard et recommandée.
-
-### 3. Code
-
-Voici le code final prêt à être copié-collé pour votre fichier `README.md`. Il reprend l'intégralité des instructions d'installation, de compilation et l'exemple de jeu issus de votre document original :
-
-```markdown
 # Jeu du Pendu
 
 Ce dépôt contient le code source d'un jeu du Pendu écrit en C.
