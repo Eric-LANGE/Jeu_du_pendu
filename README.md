@@ -60,7 +60,7 @@ FEUILLETISE-AIS
 
 Il vous reste 4 essais.
 
-Saisir une lettre sauf o, n, g, m :
+Saisir une lettre sauf o, n, g, m : _
 
 ```
 
