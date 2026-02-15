@@ -13,7 +13,6 @@ Ce dépôt contient le code source d'un jeu du Pendu écrit en C.
        const char chemin[] = "Chemin vers le fichier dico.txt";
    // ...
 
-```
 
 3. **Configuration des assets textuels** : Dans le fichier `pendu.c`, renseignez le chemin vers `intro.txt` et `potence.txt`.
 
